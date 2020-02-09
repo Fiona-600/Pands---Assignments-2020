@@ -1,5 +1,5 @@
 
-#Write a program that takes asks a user to input a string and outputs every second letter in reverse order
+#Write a program that asks a user to input a string and outputs every second letter in reverse order
 
 Sentence = input("Please Enter a Sentence:  ")
 #User Input = "The quick brown fox jumps over the lazy dog..o zletrv pu o wr cu h"
