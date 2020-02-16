@@ -1,7 +1,0 @@
-
-Week = [Monday, Tuesday, Wednesday, Thrusday, Friday, Saturday, Sunday]
-
-for i in range (Monday,Friday)
-print ("weekday")
-for j in range ("Saturday, Sunday)
-print ("weekend")
