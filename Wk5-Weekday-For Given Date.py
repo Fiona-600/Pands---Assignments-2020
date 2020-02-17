@@ -1,7 +1,6 @@
 # Fiona Lee
 
-# Write a program that outputs whether or not today is a weekday
-# Python program to Find day of the week for a given date 
+# Write a Python program to find day of the week for a given date 
 
 import datetime
 import calendar 
