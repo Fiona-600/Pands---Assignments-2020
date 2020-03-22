@@ -8,10 +8,9 @@ import calendar
 Week_days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday','Sunday']
 # Defines weekdays as a list
 
-L = list(map(int, input("Enter today's date: "). split('/')))
+L = list (map (int (input("Enter today's date: "). split('/')))
 
-
-day = datetime. date(L[2],L[1],L[0]). weekday()
+day = datetime . date(L[2],L[1],L[0]). weekday()
 
 if day < 5:
 
