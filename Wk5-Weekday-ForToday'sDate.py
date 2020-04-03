@@ -6,7 +6,6 @@
 import datetime
 Week_days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday','Sunday']
 # Defines weekdays as a list
-
 today = datetime.datetime.today()
 # Returns today's date in year, month, day & time
 day = today.weekday()
