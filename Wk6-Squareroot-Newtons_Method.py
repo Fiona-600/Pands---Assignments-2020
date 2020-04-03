@@ -1,5 +1,5 @@
 # Fiona Lee
-# A function to find the square root of a given number
+# A function to find the approximate square root of a given number using Newton's method
 
 import math 
 print()
