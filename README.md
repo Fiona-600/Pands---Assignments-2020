@@ -2,7 +2,7 @@ Fiona Lee
 
 This repository contains 7 Assignment submissions for the Programming and Scripting 2020 module of the Higher Diploma - Data Analytics and Computer Science course.
 
-The Submissions are labelled as follows:
+The submissions are labelled as follows:
 
 Week 2 - Wk2 - BMI.py
 
@@ -36,6 +36,7 @@ Program that outputs whether or not today is a weekday.
     Expected output: If today is Monday - Friday = Weekday; Saturday/Sunday = Weekend
 
 Week 6 - Wk6-Squareroot-Newtons_Method.py
+
 Week 6 - Alternative Method - Wk6-Squareroot-Using_Sqrt.py
 
 A function to find the approximate vaue of the square root of a given number.  
@@ -50,7 +51,7 @@ Week 7 - Wk7-Es.py & Moby-Dick.txt
 
 Program that reads in the text from the file 'Moby-Dick.txt' and outputs the number of e's it contains.  
 
-    The text in the file 'Moby-Dick.txt was sourced from https://web.archive.org/web/20050405224405/http://etext.lib.virginia.edu/etcbin/toccer-new2?id=Mel2Mob.sgm&images=images/modeng&data=/texts/english/modeng/parsed&tag=public&part=all
+The text in the file 'Moby-Dick.txt was sourced from https://web.archive.org/web/20050405224405/http://etext.lib.virginia.edu/etcbin/toccer-new2?id=Mel2Mob.sgm&images=images/modeng&data=/texts/english/modeng/parsed&tag=public&part=all
 
     Expected Outout: Number of 'e''s in Moby-Dick.txt is 117190
 
@@ -58,7 +59,7 @@ Week 8 - Wk8-Plots.py
 
 Program to plot the functions x squared and x cubed in the range 0 to 4 on one set of axes simultaneously
 
-Expected Output: x squared and x cubed in green and red dots on a common axis
+Expected Output: x squared and x cubed in green and red dots on a common axis where x is between 0 and 4.
 
 
 Required Software:
@@ -70,7 +71,7 @@ The following software links were used to install the required software to compl
     Cmder Console Emulator - https://cmder.net/
     Github Repository Storage - https://github.com/
 
-Installation of Git Hub will be required to view the submissions and Cmder will be required to test the submission.
+Installation of Git Hub, Anaconda and Virtual Studio Code will be required to view the submissions and Cmder will be required to test the submission.
 
 Installing Anaconda:
     Download Anaconda using the following link: https://www.anaconda.com/
