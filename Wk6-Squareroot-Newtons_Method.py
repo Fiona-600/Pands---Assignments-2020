@@ -17,7 +17,6 @@ while (guess != math.sqrt (n)):
     guess = ((guess + n/guess)/2)
     print ("Next Guess is" , round (guess , 20))
     #Show all guesses generated to 3 decimal places
-    
 else:
     print()
     print ("The square root of",n, "using Newton's Method is approximately", round (guess , 1))
