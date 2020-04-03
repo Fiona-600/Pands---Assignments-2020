@@ -3,7 +3,6 @@
 
 import math 
 a = float ( input ("Please enter a positive number: "))
-
 while True:
     if a > 0:
         b = math.sqrt (a)
