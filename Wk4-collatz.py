@@ -20,7 +20,7 @@ while value != 1:
         if(value % 2) != 0:
             ((value * 3) + 1)
             print("Current value is ODD so successive value is", value ,"multiplied by 3 plus one = ",int((value * 3) + 1))
-
+            
     #Loop condition to create successive values:
     if (value % 2) == 0: 
         value = int(value / 2)

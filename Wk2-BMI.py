@@ -1,3 +1,4 @@
+# Fiona Lee
 # Program to calculate a person's Body Mass Index (BMI) based on user input in kilograms and centimetres
 
 # Weight equals 65kg
