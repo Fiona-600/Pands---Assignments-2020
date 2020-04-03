@@ -59,7 +59,7 @@ Week 8 - Wk8-Plots.py
 
 Program to plot the functions x squared and x cubed in the range 0 to 4 on one set of axes simultaneously
 
-Expected Output: x squared and x cubed in green and red dots on a common axis where x is between 0 and 4.
+    Expected Output: x squared and x cubed in green and red dots on a common axis where x is between 0 and 4.
 
 
 Required Software:
