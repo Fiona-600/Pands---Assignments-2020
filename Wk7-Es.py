@@ -5,22 +5,12 @@
 # Text is sourced from https://web.archive.org/web/20050405224405/http://etext.lib.virginia.edu/etcbin/toccer-new2?id=Mel2Mob.sgm&images=images/modeng&data=/texts/english/modeng/parsed&tag=public&part=all
 
 with open ("Moby-Dick.txt" , "r") as f:
-      
-    print("")
-  
-    frequency = (f.read () .lower (). count ('e'))
-    
-    print ("The number of times 'e' occurs in the book 'Moby Dick' is:" , frequency)
+# Open text file called 'Moby-Dick.text file in read mode
    
-    
-#Alternative Code:
+   print("")
+   frequency = (f.read () .lower (). count ('e'))
+   # Read all characters in the file, convert to lower case and count 
+   # the number of times 'e' appears
 
-#print ("")
-
-#f = open ('Moby-Dick.txt','r')
-
-#frequency = f.read() . lower () . count ('e')
-
-#print ("The number of times 'e' occurs in the book 'Moby Dick' is:" , frequency)
-
-#f.close ()
+   print ("The number of times 'e' occurs in the book 'Moby Dick' is:" , frequency)
+   # Print the result
