@@ -11,9 +11,6 @@ print()
 print ("Current Value is:",int(a))
 print()
 
- 
-
-
 #Over-riding condition to execute only until a equals one
 
 while a != 1:
